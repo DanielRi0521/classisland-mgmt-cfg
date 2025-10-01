@@ -3,16 +3,17 @@
     "OrganizationName": "Hello"
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/DanielRi0521）/classisland-mgmt-cfg/classplans.json",
-        "Version": 1
+        "Version": 2
     },
     "TimeLayoutSource": {
         "Value": "https://raw.githubusercontent.com/DanielRi0521/classisland-mgmt-cfg/timelayouts.json",
-        "Version": 1
+        "Version": 2
     },
     "SubjectsSource": {
         "Value": "https://raw.githubusercontent.com/DanielRi0521/classisland-mgmt-cfg/subjects.json",
-        "Version": 1
+        "Version": 2
 }
+
 
 
 
